@@ -1,0 +1,28 @@
+<!-- res/menu/menu_options.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Bookmarks Option -->
+    <item
+        android:id="@+id/action_bookmarks"
+        android:title="@string/menu_bookmarks"
+        android:showAsAction="never" />
+
+    <!-- Game Booster Option -->
+    <item
+        android:id="@+id/action_game_booster"
+        android:title="@string/menu_game_boost"
+        android:showAsAction="never" />
+
+    <!-- Notices Option -->
+    <item
+        android:id="@+id/action_notices"
+        android:title="@string/menu_notice"
+        android:showAsAction="never" />
+
+    <!-- Settings Option -->
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/menu_settings"
+        android:showAsAction="never" />
+
+</menu>
